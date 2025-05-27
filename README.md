@@ -1,4 +1,4 @@
-<h1 align="center">𝗣𝗔𝗧𝗥𝗢𝗡-𝗠𝗗 𝗕𝗢𝗧<br></h1>
+<h1 align="center">SKY-𝗠𝗗 𝗕𝗢𝗧<br></h1>
 <p align="center">
 <img src="https://files.catbox.moe/e71nan.png" height="300" />
 </p>
